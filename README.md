@@ -1,2 +1,4 @@
 # hello-world
-Hello World example
+
+I'm a software engineer by original trade reintroducing himself to the tools and practices of the modern developer
+
